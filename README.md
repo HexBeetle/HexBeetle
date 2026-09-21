@@ -1,16 +1,46 @@
-## Hi there 👋
+                      🪲
+               H E X B E E T L E
+                 HEX • BEE • TLE
+
+          AI × CYBERSECURITY × AUTOMATION
+
+             Explore. Analyze. Secure.
 
 <!--
 **HexBeetle/HexBeetle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+> whoami
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm Taimor, an IT professional with a background in
+cybersecurity and currently pursuing a master's degree
+focused on Applied Artificial Intelligence.
+
+I'm interested in the intersection of AI, cybersecurity,
+automation, networking, and defensive security.-->
+
+
+> current_focus
+
+🧠 Applied Artificial Intelligence
+🔐 Cybersecurity
+🐧 Linux
+🌐 Networking
+☕ Java & Data Structures
+🐍 Python
+⚙️ Security Automation
+
+
+> hexbeetle_labs
+
+🔐 AI Security Log Analyzer
+🍯 Honeypot Analytics Lab
+🌐 Network Monitoring Lab
+🤖 AI IT Support Assistant
+
+
+> stack
+
+Languages      Python • Java • PowerShell
+Security       Linux • Networking • OSINT
+AI             LLMs • AI Automation
+Platforms      Windows • Linux • Git
